@@ -17,3 +17,4 @@
 ### Kenntnisse und Interessen
 + Open Source-basierte Sofwareentwicklung 
 
+![HFULogo](HFULogo.jpg "HFU Logo")
